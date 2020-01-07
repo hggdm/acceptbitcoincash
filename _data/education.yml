@@ -72,7 +72,6 @@ websites:
   othercrypto: true
 - name: Code School
   url: https://www.codeschool.com/
-  twitter: codeschool
   facebook: CodeSchool
   img: codeschool.png
   bch: false
@@ -106,7 +105,6 @@ websites:
 - name: Contemporary Training
   url: http://contemporarytraining.co.za/
   img: CTrainingZA.png
-  twitter: CTrainingZA
   facebook: ContemporaryTrainingZA
   email_address: info@contemporarytraining.co.za
   region: af
@@ -243,7 +241,6 @@ websites:
 - name: My iTutoring
   url: https://www.my-itutoring.com
   img: myitutoring.png
-  twitter: itzortzak
   facebook: my.iTutoring
   email_address: itzortzak@gmail.com
   country: GR
@@ -285,7 +282,6 @@ websites:
   url: https://www.pushcoin.com
   img: pushcoin.png
   facebook: pushcoin
-  twitter: pushcoin
   bch: false
   btc: false
   othercrypto: false

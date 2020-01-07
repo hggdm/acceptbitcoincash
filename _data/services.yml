@@ -23,7 +23,7 @@ websites:
   btc: true
   othercrypto: true
   twitter: audioventaca
-  facebook: audioventa.ca
+  facebook: audioventaca
   email_address: audioventa.ca@gmail.com
 - name: Avnet
   url: https://www.avnet.com/
@@ -38,7 +38,7 @@ websites:
   - bitpay
   - bip70
 - name: Bitcoin MXN
-  url: http://bitcoinmxn.com/enviar-ico/
+  url: http://bitcoinmxn.com/
   img: bitcoinmxn.png
   twitter: mxn_bitcoin
   facebook: bitcoinmxnoficial
@@ -95,8 +95,7 @@ websites:
 - name: Denison Yacht Sales
   url: https://www.denisonyachtsales.com/
   img: denisonyachtsales.png
-  twitter: denisonyachts
-  facebook: DenisonYachtSales
+  facebook: DenisonYachting
   bch: true
   btc: true
   othercrypto: false
@@ -318,7 +317,6 @@ websites:
   bch: true
   btc: false
   othercrypto: false
-  twitter: lingocash1
   facebook: lingocash1
   email_address: translations@lingo.cash
 - name: Locks Keys and More
@@ -352,6 +350,21 @@ websites:
   facebook: MVincRoss
   bch: true
   btc: true
+- name: Michel Fortin
+  url: https://michelf.ca/
+  img: michelf.png
+  twitter: michel_fortin
+  bch: true
+  bsv: false
+  btc: false
+  othercrypto: false
+  keywords:
+  - mac
+  - macOS 
+  - translation
+  - screen
+  - colors
+  - xliff
 - name: Muse
   url: https://muse.markraybin.com
   img: muse.png
@@ -449,17 +462,6 @@ websites:
   btc: false
   othercrypto: true
   doc: https://ramonlperez.weebly.com/about.html
-- name: Rapid Car Key
-  url: https://www.rapidcarkey.com/
-  img: RapidCarKey.png
-  facebook: RapidCarKey
-  email_address: rapidcarkey@gmail.com
-  region: na
-  country: US
-  city: Tucson
-  bch: true
-  btc: false
-  othercrypto: false
 - name: SEO Clerks
   url: https://www.seoclerk.com/
   img: seoclerks.png

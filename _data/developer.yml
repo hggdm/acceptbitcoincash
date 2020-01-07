@@ -130,7 +130,6 @@ websites:
   img: codeship.png
   bch: false
   twitter: codeship
-  facebook: codeship
 - name: Compose.io
   url: https://www.compose.io/
   img: composeio.png
@@ -320,7 +319,6 @@ websites:
   img: phacility.png
   bch: false
   twitter: phabricator
-  facebook: phabricator
 - name: Pingdom
   url: https://www.pingdom.com
   img: pingdom.png

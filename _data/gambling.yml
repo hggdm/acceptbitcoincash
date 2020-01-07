@@ -18,7 +18,6 @@ websites:
 - name: Americas Cardroom
   url: https://americascardroom.eu
   twitter: acr_poker
-  facebook: americascardroomnet
   img: americascardroom.png
   bch: true
   btc: true
@@ -28,7 +27,6 @@ websites:
   url: https://www.betchain.com/
   img: betchain.png
   twitter: betchain
-  facebook: BetChain
   email_address: support@betchain.com
   bch: true
   btc: true
@@ -69,7 +67,6 @@ websites:
 - name: Bitstarz
   url: https://www.bitstarz.com/
   img: bitstarz.png
-  twitter: bitstarzcasino
   bch: true
   bsv: false
   btc: true
@@ -95,7 +92,6 @@ websites:
 - name: Bodog
   url: https://www.bodog.eu/
   img: bodog.png
-  facebook: BodogCanada
   twitter: BodogCa
   bch: true
   btc: true
@@ -108,7 +104,6 @@ websites:
   othercrypto: true
 - name: Bovada
   url: https://www.bovada.lv/
-  twitter: bovadalv
   facebook: BovadaLV
   img: bovada.png
   bch: true
@@ -119,7 +114,6 @@ websites:
   url: https://casinoextreme.eu/
   img: casinoextreme.png
   twitter: casinoextreme
-  facebook: casinoextremeonline
   email_address: support@casinoextreme.com
   bch: true
   btc: true
@@ -143,6 +137,11 @@ websites:
   btc: true
   othercrypto: false
   doc: https://www.cloudbet.com/en/bitcoin-cash-promotion
+- name: CoinWin888
+  url: https://www.coinwin888.com/
+  bch: true
+  btc: true
+  othercrypto: true
 - name: Crypto Wild
   url: https://www.cryptowild.com/
   img: cryptowild.png
@@ -168,6 +167,16 @@ websites:
   bch: true
   btc: true
   othercrypto: true
+- name: Fanduel
+  url: https://www.fanduel.com/
+  img: Fanduel.png
+  bch: true
+  btc: true
+  othercrypto: false
+  twitter: fanduel
+  facebook: fanduel
+  region: na
+  doc: https://news.bitcoin.com/fantasy-sports-giant-fanduel-now-accepts-bitcoin-cash/
 - name: FortuneJack
   url: https://fortunejack.com/
   img: fortunejack.png
@@ -211,7 +220,6 @@ websites:
 - name: MyBookie
   url: https://mybookie.ag
   twitter: betmybookie
-  facebook: betmybookie
   img: mybookieag.png
   bch: true
   btc: true
@@ -263,6 +271,7 @@ websites:
   othercrypto: false
 - name: PotOdds.cash
   url: https://potodds.cash/
+  img: potodds.png
   bch: true
   btc: false
   othercrypto: false
@@ -279,7 +288,6 @@ websites:
   url: https://www.redstagcasino.eu/
   img: redstagcasino.png
   twitter: redstagcasino
-  facebook: RedStagCasino
   email_address: support@redstagcasino.eu
   bch: true
   btc: true
@@ -311,7 +319,6 @@ websites:
   url: https://www.slotland.eu/
   img: slotland.png
   twitter: slotland
-  facebook: Slotland
   email_address: support@slotland.eu
   bch: true
   btc: true
@@ -322,7 +329,6 @@ websites:
 - name: Sloto'Cash
   url: https://www.slotocash.im/
   img: slotocash.png
-  facebook: SlotoCash.Casino
   email_address: support@slotocash.im
   bch: true
   btc: true
@@ -377,7 +383,6 @@ websites:
 - name: Uptown Aces
   url: https://uptownaces.eu/
   img: uptownaces.png
-  facebook: uptownaces
   email_address: support@uptownaces.eu
   bch: true
   btc: true

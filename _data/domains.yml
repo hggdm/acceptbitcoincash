@@ -27,7 +27,6 @@ websites:
   url: https://www.1and1.com/
   img: 1and1.png
   bch: false
-  twitter: 1and1
   facebook: 1and1
 - name: Above.com
   url: https://www.above.com
@@ -153,6 +152,13 @@ websites:
   bch: false
   twitter: enom
   facebook: eNomCom
+- name: Epik
+  url: https://epik.com
+  img: Epik.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: epikdotcom
 - name: EuroDNS
   url: https://www.eurodns.com
   img: eurodns.png
@@ -243,8 +249,6 @@ websites:
   url: https://www.incapsula.com/
   img: incapsula.png
   bch: false
-  twitter: incapsula_com
-  facebook: Incapsula
 - name: Internet.bs
   url: https://internetbs.net/
   img: internetbs.png
@@ -269,6 +273,14 @@ websites:
   bch: false
   twitter: jokercom
   facebook: JokerDomains
+- name: laweitech
+  url: https://web.laweitech.com/
+  facebook: Laweitech
+  email_address: hello@laweitech.com
+  img: Laweitech.png
+  bch: true
+  btc: true
+  othercrypto: true
 - name: Loopia
   url: https://www.loopia.se/
   img: loopia.png
@@ -424,7 +436,6 @@ websites:
   bch: true
   btc: true
   othercrypto: true
-  twitter: PorkbunLLC
   facebook: Porkbun-1626180577611026
   doc: https://porkbun.com/support/payment_options
   keywords:
@@ -434,7 +445,6 @@ websites:
   img: rebeldotcom.png
   bch: false
   twitter: rebeldotcom
-  facebook: rebeldomains
 - name: Register4Less
   url: https://register4less.com/
   img: register4less.png
@@ -451,15 +461,6 @@ websites:
   bch: false
   email_address: pagamento@registro.br
   twitter: registrobr
-- name: ScrybaWEB
-  url: https://www.scrybaweb.com/
-  twitter: scrybaweb
-  facebook: scrybaweb
-  email_address: contact@scrybaweb.com
-  img: scrybaweb.png
-  bch: true
-  btc: true
-  othercrypto: true
 - name: SoxDomains
   url: https://www.soxdomains.com/
   img: soxdomains.png

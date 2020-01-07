@@ -101,7 +101,6 @@ websites:
 - name: Efilenka
   url: https://t.me/best_jewelry
   img: efilenka.png
-  facebook: profile.php?id=100012520656584
   email_address: morenita250685@gmail.com
   bch: true
   btc: true
@@ -110,21 +109,12 @@ websites:
   url: https://FabFox.co.uk
   img: fabfox.png
   twitter: FabFoxUK
-  facebook: FabFox.co.uk
   email_address: online@fabfox.co.uk
   bch: true
   btc: true
   othercrypto: true
   keywords:
   - coinbase
-- name: Giacobbe and Co
-  url: https://giacobbeandco.com/
-  img: Giacobbeandco.png
-  twitter: Giacobbeandco
-  facebook: GiacobbeandCo
-  bch: true
-  btc: true
-  othercrypto: true
 - name: GoldSilver
   url: https://goldsilver.com/
   img: GoldSilverDotCom.png
@@ -197,6 +187,16 @@ websites:
   keywords:
   - bitpay
   - coinbase
+- name: Moldavite Jewelry
+  url: https://www.gemexi.com/gemstones/jewelry/moldavite
+  img: MoldaviteJewelry.png
+  bch: true
+  btc: true
+  othercrypto: true
+  facebook: gemexi
+  email_address: tom.lincoln0001@gmail.com
+  region: eu
+  country: US
 - name: Moldavite Plus
   url: https://www.moldaviteplus.com/
   img: moldaviteplus.png
@@ -250,7 +250,6 @@ websites:
   url: https://www.reeds.com/
   img: reeds.png
   twitter: ReedsJewelers
-  facebook: reedsfb
   bch: false
   btc: true
   othercrypto: true
